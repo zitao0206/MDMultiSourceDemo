@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
     if $?.success? then tag else "0.0.1" end
   end
   s.version          = smart_version
-  s.summary          = 'A short description of MDMultiSourceDemo.'
+  s.summary          = 'A short description of MDMultiSourceDemo_A.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -34,7 +34,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '9.0'
 
-  s.source_files = 'MDMultiSourceDemo/Classes/Demo_A/**/*'
+  s.source_files = 'MDMultiSourceDemo/Classes/MDMultiSourceDemo_A/**/*'
   
   # s.resource_bundles = {
   #   'MDMultiSourceDemo' => ['MDMultiSourceDemo/Assets/*.png']
