@@ -1,0 +1,16 @@
+PODS:
+  - MDMultiSourceDemo (0.1.0)
+
+DEPENDENCIES:
+  - MDMultiSourceDemo (from `../`)
+
+EXTERNAL SOURCES:
+  MDMultiSourceDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MDMultiSourceDemo: 0ab5c328931aa5b917bfd528b9d231bcd968c6f0
+
+PODFILE CHECKSUM: 00250cdbf5c24b6343cc197d0963994d95150c63
+
+COCOAPODS: 1.10.1
