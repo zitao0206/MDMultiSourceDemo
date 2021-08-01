@@ -30,7 +30,7 @@
 		06F72EBE82AFDF3913BC96661A3F6F92 /* Pods-MDMultiSourceDemo_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MDMultiSourceDemo_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		0FB80058BC8E1DACC87C61B5414E0497 /* Pods-MDMultiSourceDemo_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MDMultiSourceDemo_Example-frameworks.sh"; sourceTree = "<group>"; };
 		18FF9BC46917BEF6AE19B127240E2C46 /* MDMultiSourceDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MDMultiSourceDemo.debug.xcconfig; sourceTree = "<group>"; };
-		2AC0DF858A58F0129A6343895535766E /* Pods_MDMultiSourceDemo_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_MDMultiSourceDemo_Example.framework; path = "Pods-MDMultiSourceDemo_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2AC0DF858A58F0129A6343895535766E /* Pods_MDMultiSourceDemo_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MDMultiSourceDemo_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		32EC5BFE097848D26D03F51C527ECAF3 /* MDMultiSourceDemo-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "MDMultiSourceDemo-dummy.m"; sourceTree = "<group>"; };
 		362AA33BBE382AAE7F68127B5F517B58 /* MDMultiSourceDemo.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = MDMultiSourceDemo.modulemap; sourceTree = "<group>"; };
 		3A093A0F195E5F1523B3546392112315 /* Pods-MDMultiSourceDemo_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MDMultiSourceDemo_Example-dummy.m"; sourceTree = "<group>"; };
@@ -40,17 +40,17 @@
 		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		79F5DEE9A83E4E44AC71EA9E18388C0E /* MDMultiSourceDemo-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MDMultiSourceDemo-prefix.pch"; sourceTree = "<group>"; };
 		8615BB10EE384A1439C071B804C5D151 /* Pods-MDMultiSourceDemo_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-MDMultiSourceDemo_Example-umbrella.h"; sourceTree = "<group>"; };
-		8E4D0C12E4B40199A1B2A1AA1C2EE39F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		8E4D0C12E4B40199A1B2A1AA1C2EE39F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		907AFA6A879136ABDB2BCF6548347FF1 /* Pods-MDMultiSourceDemo_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-MDMultiSourceDemo_Example.modulemap"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9EB41AAC367F5A37CCCBB757FF9BF03E /* Pods-MDMultiSourceDemo_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MDMultiSourceDemo_Example-Info.plist"; sourceTree = "<group>"; };
 		A63B9269C33AF8FB449C80EF7996AD3B /* MDMultiSourceDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MDMultiSourceDemo.release.xcconfig; sourceTree = "<group>"; };
 		BE40992404ACB82E979A8A2100E81E0E /* MDMultiSourceDemo-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MDMultiSourceDemo-umbrella.h"; sourceTree = "<group>"; };
-		DF169AD390482CD7E147ABF6B88444E2 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
-		E7A94220240BFBAB78C049F9230D7005 /* MDMultiSourceDemo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = MDMultiSourceDemo.framework; path = MDMultiSourceDemo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		DF169AD390482CD7E147ABF6B88444E2 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		E7A94220240BFBAB78C049F9230D7005 /* MDMultiSourceDemo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MDMultiSourceDemo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		ECA67D4D42B8A9B434ECCDACAADD0CA5 /* Pods-MDMultiSourceDemo_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MDMultiSourceDemo_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		ECCFE63E354FCE25291934C51366404F /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ReplaceMe.m; path = MDMultiSourceDemo/Classes/ReplaceMe.m; sourceTree = "<group>"; };
-		FFB1E8E2BB25ADFA888D9AADCCCE9E38 /* MDMultiSourceDemo.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = MDMultiSourceDemo.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		FFB1E8E2BB25ADFA888D9AADCCCE9E38 /* MDMultiSourceDemo.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = MDMultiSourceDemo.podspec; sourceTree = "<group>"; tabWidth = 2; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -559,8 +559,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
