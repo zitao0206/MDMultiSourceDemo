@@ -15,7 +15,7 @@ if [ $input ]; then
 else
     git commit -am "自动化代码提交"
 fi
-git push origin master
+git push -f
 
 git fetch
 result=$(git tag --list)
