@@ -35,8 +35,7 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '9.0'
 
   s.source_files = [
-      'MDMultiSourceDemo/Classes/MDMultiSourceDemo_Core/**/*',
-      'MDMultiSourceDemo/Classes/MDMultiSourceDemo_C/**/*'
+      'MDMultiSourceDemo/Classes/MDMultiSourceDemo_C/**/*',
   ]
   
   # s.resource_bundles = {
