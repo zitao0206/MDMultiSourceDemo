@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'MDMultiSourceDemo_A'
+  s.name             = 'MDMultiSourceDemo_C'
     def self.smart_version
     tag = `git describe --abbrev=0 --tags 2>/dev/null`.strip
     if $?.success? then tag else "0.0.1" end
@@ -45,5 +45,5 @@ TODO: Add long description of the pod here.
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
+   s.dependency 'MDMultiSourceDemo_Core'
 end
