@@ -22,7 +22,7 @@ pod 'MDMultiSourceDemo'
 
 ## Author
 
-lizitao, 634376133@qq.com
+Leon0206, 634376133@qq.com
 
 ## License
 
